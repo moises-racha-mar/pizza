@@ -1,0 +1,17 @@
+Var
+// Seção de Declarações das variáveis 
+procedimento principal()
+
+Inicio
+// Seção de Comandos, procedimento, funções, operadores, etc... 
+ escreval("------------------------------------------")
+ escreval("-------------------MENU-------------------")
+ escreval("------------------------------------------")
+ escreval("")
+ escreval(" (1) PIZZA DE QUATRO QUEIJOS")
+ escreval(" (2) PIZZA DE MUSSARELA")
+ escreval(" (3) PIZZA DE CALABRESA")
+ escreval(" (4) PIZZA DE FRANGO C/ CATUPIRY")
+ escreval("")
+
+Fimalgoritmo
